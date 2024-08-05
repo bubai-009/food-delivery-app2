@@ -1,1 +1,13 @@
 Live link :- https://food-delivery-frontend-o3cj.onrender.com
+![Screenshot 2024-08-06 023056](https://github.com/user-attachments/assets/68974829-5588-4669-921f-0145ad4517c2)
+![Screenshot 2024-08-06 023138](https://github.com/user-attachments/assets/6ae8c35a-1ec2-42b1-8ae3-a603a8be529b)
+![Screenshot 2024-08-06 023221](https://github.com/user-attachments/assets/0e0d7bfb-2354-40ed-bc05-e1f81beae066)
+![Screenshot 2024-08-06 023307](https://github.com/user-attachments/assets/759562ae-188d-47ad-9666-f386274f5fc5)
+![Screenshot 2024-08-06 023248](https://github.com/user-attachments/assets/152ce83e-1687-49fd-8ebd-f6830d4c1af9)
+![Screenshot 2024-08-06 023433](https://github.com/user-attachments/assets/ac7100f7-4b03-4f98-b9e9-fdfd4e853925)
+![Screenshot 2024-08-06 023454](https://github.com/user-attachments/assets/54bc19b2-e5c2-488f-bbe7-704fa68b35ef)
+![Screenshot 2024-08-06 023553](https://github.com/user-attachments/assets/a918ee0a-7038-409c-9e7c-97dcc3b98f7f)
+![Screenshot 2024-08-06 023858](https://github.com/user-attachments/assets/503eb370-b3a5-456f-870e-4712a72fb5e0)
+![Screenshot 2024-08-06 023932](https://github.com/user-attachments/assets/cb16b88f-07eb-42b7-a895-f9155cc03b66)
+![Screenshot 2024-08-06 023952](https://github.com/user-attachments/assets/a173013a-deeb-4715-ab8b-c2696e85a5a6)
+![Screenshot 2024-08-06 024011](https://github.com/user-attachments/assets/4e53e4ec-ebf1-488f-b026-ee5c8bcfc4fe)
